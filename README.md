@@ -1,6 +1,6 @@
 ## About prerender-spa-plugin-fork
 
-**fork to prerender-spa-plugin@3.4.0**
+**forked from prerender-spa-plugin@3.4.0**
 
 <h1 align="center">[DEPRECATED]</h1>
 
